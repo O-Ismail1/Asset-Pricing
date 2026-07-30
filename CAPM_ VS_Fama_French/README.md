@@ -16,7 +16,7 @@ The analysis applies CAPM and Fama-French factor models using historical stock r
 
 ## Methodology
 
-1. Download historical stock prices f.
+1. Download historical stock prices.
 2. Calculate monthly stock returns.
 3. Estimate regression models.
 4. Compare model performance.
