@@ -8,7 +8,7 @@ The objective is to evaluate whether machine learning algorithms can approximate
 
 ## Methodology
 
-1. Download historical stock prices from Yahoo Finance.
+1. Download historical stock prices.
 2. Generate  option prices using the Black-Scholes model.
 3. Train machine learning models to predict option prices.
 
